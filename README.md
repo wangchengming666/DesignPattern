@@ -1,2 +1,2 @@
-# DesignPattern
-# [个人blog](https://blog.csdn.net/wangchengming1)
+- DesignPattern
+- [个人blog](https://blog.csdn.net/wangchengming1)
