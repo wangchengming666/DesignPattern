@@ -1,6 +1,6 @@
 package example;
 
-public class Circle implements IShape{
+public class Circle implements IShape {
 
 	@Override
 	public void draw() {
